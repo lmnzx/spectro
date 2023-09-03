@@ -1,1 +1,1 @@
-# spectro
+# spectrogram generator with rust
